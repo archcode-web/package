@@ -1,4 +1,5 @@
 {
+    "name": "archcode-web/package",
     "description": "this is a simple test packet for testing composer learning",
     "autoload": {
         "psr-4": {
