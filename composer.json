@@ -1,0 +1,11 @@
+{
+    "description": "this is a simple test packet for testing composer learning",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "require": {
+            "php": ">=8.5"
+        }
+    }
+}
